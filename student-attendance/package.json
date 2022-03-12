@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "expo-av": "~8.0.0",
+    "firebase": "7.15.5",
+    "expo-asset": "~8.0.0",
+    "@unimodules/core": "~5.0.0",
+    "react-navigation": "3.8",
+    "@expo/vector-icons": "^10.0.0",
+    "react-native-paper": "3.1.1",
+    "@react-navigation/native": "^3.8.2",
+    "unimodules-permissions-interface": "~5.0.0"
+  }
+}
